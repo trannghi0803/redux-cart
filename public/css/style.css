@@ -1,0 +1,13 @@
+/* YOUR CUSTOM STYLES */
+#product-item {
+  max-height: 500px;
+}
+#product-item .card-body {
+  max-height: 230px;
+}
+#product-item .img-fluid {
+  width: 100% !important;
+  overflow: initial !important;
+  height: 100%;
+  max-height: 300px;
+}
